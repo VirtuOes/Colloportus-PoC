@@ -8,7 +8,10 @@ Viele Grüße
 Moe&Phil
 
 
-# Struktur der Software
+# PoC Nutzen
+1. Parity Node installieren 
+2. partiy Node starten und synchronisieren lassen 
+3. 
 
 Rudimentäres Front End: über HTML site
 Funktionsaufrufe über colloportus.js
