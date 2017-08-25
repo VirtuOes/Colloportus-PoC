@@ -20,6 +20,10 @@ Moe&Phil
 Colloportus.js herunterladen und
 node colloportus.js ausführen
 
+Über den Browser 
+localhost:PORT öffenen
+
+
 #Struktur
 NodeJS server mit script colloportus.js
 
