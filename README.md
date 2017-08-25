@@ -9,10 +9,20 @@ Moe&Phil
 
 
 # PoC Nutzen
-1. Parity Node installieren 
+1. Parity Node installieren (https://github.com/paritytech/parity/wiki/Setup)
 2. partiy Node starten und synchronisieren lassen 
-3. 
+  on mac: bash > parity --warp --chain ropsten
+ 
+3. npm installieren
+4. nodeJS istallieren
+5. web3 installieren
 
-Rudimentäres Front End: über HTML site
-Funktionsaufrufe über colloportus.js
+Colloportus.js herunterladen und
+node colloportus.js ausführen
+
+#Struktur
+NodeJS server mit script colloportus.js
+
+Smart Contract (Colloportus_0_0_8.sol) in Test-Blockchain Ropsten deployed
+Smart Contract Adresse: 0x51282dF92e998166f4e707651845282aF487A15e
 
